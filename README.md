@@ -1,4 +1,4 @@
-# DM2025 Lab1 Exercise
+# DM2025 Lab1 Exercise Environment Setup 
 
 This repository contains the exercises for DM2025 Lab1, including Python scripts and Jupyter Notebooks.
 
@@ -33,7 +33,7 @@ Open your terminal/PowerShell and run:
 pip install uv
 uv --version 
 ```
-`uv --version` for checking the version of uv. Expected output: uv 0.8.13 (ede75fe62 2025-08-21)
+`uv --version` for checking the version of uv. You shall see the version of uv just installed. 
 ### 3. Create a project folder
 ```bash
 mkdir DM2025Labs
@@ -66,4 +66,4 @@ This will install all required Python packages in your virtual environment.
 uv run python -m ipykernel install --user --name=dm2025lab --display-name "Python (dm2025lab)"
 ``` 
 ### 9. Run the code
-You can now open Jupyter Notebook and select the Python (dm2025lab) kernel to run the exercises.
+You can now open Jupyter Notebook and select the Python (dm2025lab) kernel (on the top-right corner) to run the exercises.

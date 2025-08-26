@@ -3331,8 +3331,8 @@ allow	supposed:9
 whose:20
 local:20
 proof:20
-proof	ones:9
 proof	nor:9
+proof	ones:9
 meant:20
 gave:20
 marriage:20
